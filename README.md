@@ -2,7 +2,7 @@
 
 [![Support me!](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V7IK9UU)
 
-Drop `https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json` into your third party repo URL list.
+Drop `https://raw.githubusercontent.com/VariableVixen/MyDalamudPlugins/master/pluginmaster.json` into your third party repo URL list.
 
 ## Detailed Instructions
 
