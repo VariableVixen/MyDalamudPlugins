@@ -2,7 +2,7 @@
   "Author": "VariableVixen",
   "Name": "XivEsp",
   "InternalName": "XivEsp",
-  "AssemblyVersion": "1.9.0.0",
+  "AssemblyVersion": "1.10.0.0",
   "Description": "If you've ever spent ten minutes looking for your hunt target, this is the plugin for you. Set a case-insensitive substring, glob, or regular expression, and all nearby game objects with matching names will be tagged on your screen!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/VariableVixen/XivEsp",
