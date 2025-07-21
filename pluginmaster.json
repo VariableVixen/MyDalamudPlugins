@@ -4,7 +4,7 @@
         "Name": "XIV Combo Very Expanded",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
         "InternalName": "XIVComboVX",
-        "AssemblyVersion": "9.33.4",
+        "AssemblyVersion": "9.33.5",
         "RepoUrl": "https://github.com/VariableVixen/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 12,
@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1752975146"
+        "LastUpdated": "1753119741"
     },
     {
         "Author": "VariableVixen",
@@ -37,7 +37,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1752975146"
+        "LastUpdated": "1753119741"
     },
     {
         "Author": "VariableVixen",
@@ -54,7 +54,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1752975146"
+        "LastUpdated": "1753119741"
     },
     {
         "Author": "VariableVixen",
@@ -71,6 +71,6 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1752975146"
+        "LastUpdated": "1753119741"
     }
 ]
