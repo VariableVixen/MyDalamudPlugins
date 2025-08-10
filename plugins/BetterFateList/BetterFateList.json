@@ -2,7 +2,7 @@
   "Author": "VariableVixen",
   "Name": "BetterFateList",
   "InternalName": "BetterFateList",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.1.0",
   "Description": "Provides a list of all FATEs in the current zone, with their type, sorted by maximum level and distance from you.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/VariableVixen/BetterFateList",
