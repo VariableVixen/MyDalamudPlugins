@@ -1,20 +1,20 @@
 [
     {
-        "Author": "attick, daemitus, VariableVixen",
-        "Name": "XIV Combo Very Expanded",
-        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
-        "InternalName": "XIVComboVX",
-        "AssemblyVersion": "9.33.7",
-        "RepoUrl": "https://github.com/VariableVixen/XIVComboPlugin",
+        "Author": "VariableVixen",
+        "Name": "TinyCommands",
+        "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
+        "InternalName": "TinyCmds",
+        "AssemblyVersion": "8.9.3",
+        "RepoUrl": "https://github.com/VariableVixen/TinyCommands",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 12,
-        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1753559057"
+        "LastUpdated": "1754855601"
     },
     {
         "Author": "VariableVixen",
@@ -37,7 +37,44 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1753559057"
+        "LastUpdated": "1754855601"
+    },
+    {
+        "Author": "attick, daemitus, VariableVixen",
+        "Name": "XIV Combo Very Expanded",
+        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
+        "InternalName": "XIVComboVX",
+        "AssemblyVersion": "9.33.7",
+        "RepoUrl": "https://github.com/VariableVixen/XIVComboPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 12,
+        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1754855601"
+    },
+    {
+        "Author": "VariableVixen",
+        "Name": "BetterFateList",
+        "Description": "Provides a list of all FATEs in the current zone, with their type, sorted by maximum level and distance from you.",
+        "InternalName": "BetterFateList",
+        "AssemblyVersion": "1.0.1.0",
+        "RepoUrl": "https://github.com/VariableVixen/BetterFateList",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "fate"
+        ],
+        "DalamudApiLevel": 12,
+        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/BetterFateList/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/BetterFateList/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/BetterFateList/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1754855601"
     },
     {
         "Author": "VariableVixen",
@@ -54,43 +91,6 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1753559057"
-    },
-    {
-        "Author": "VariableVixen",
-        "Name": "TinyCommands",
-        "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
-        "InternalName": "TinyCmds",
-        "AssemblyVersion": "8.9.3",
-        "RepoUrl": "https://github.com/VariableVixen/TinyCommands",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 12,
-        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1753559057"
-    },
-    {
-        "Author": "VariableVixen",
-        "Name": "BetterFateList",
-        "Description": "Provides a list of all FATEs in the current zone, with their type, sorted by maximum level and distance from you.",
-        "InternalName": "BetterFateList",
-        "AssemblyVersion": "1.0.0.0",
-        "RepoUrl": "https://github.com/VariableVixen/BetterFateList",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "fate"
-        ],
-        "DalamudApiLevel": 12,
-        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/BetterFateList/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/BetterFateList/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/BetterFateList/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1753559057"
+        "LastUpdated": "1754855601"
     }
 ]
