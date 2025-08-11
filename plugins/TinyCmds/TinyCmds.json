@@ -2,7 +2,7 @@
   "Author": "VariableVixen",
   "Name": "TinyCommands",
   "InternalName": "TinyCmds",
-  "AssemblyVersion": "8.9.4",
+  "AssemblyVersion": "8.9.5",
   "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/VariableVixen/TinyCommands",
