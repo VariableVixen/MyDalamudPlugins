@@ -2,7 +2,7 @@
   "Author": "VariableVixen",
   "Name": "WoLua",
   "InternalName": "WoLua",
-  "AssemblyVersion": "3.8.2",
+  "AssemblyVersion": "3.8.3",
   "Description": "Write custom chat commands by creating lua scripts",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/VariableVixen/WoLua",
