@@ -14,14 +14,14 @@
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1756144946"
+        "LastUpdated": "1756145276"
     },
     {
         "Author": "VariableVixen",
         "Name": "XivEsp",
         "Description": "If you've ever spent ten minutes looking for your hunt target, this is the plugin for you. Set a case-insensitive substring, glob, or regular expression, and all nearby game objects with matching names will be tagged on your screen!",
         "InternalName": "XivEsp",
-        "AssemblyVersion": "1.10.1.0",
+        "AssemblyVersion": "1.10.1.1",
         "RepoUrl": "https://github.com/VariableVixen/XivEsp",
         "ApplicableVersion": "any",
         "Tags": [
@@ -30,14 +30,14 @@
             "find",
             "locate"
         ],
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "DownloadLinkInstall": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1756144946"
+        "LastUpdated": "1756145276"
     },
     {
         "Author": "attick, daemitus, VariableVixen",
@@ -54,7 +54,7 @@
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1756144946"
+        "LastUpdated": "1756145276"
     },
     {
         "Author": "VariableVixen",
@@ -74,7 +74,7 @@
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/BetterFateList/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/BetterFateList/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1756144946"
+        "LastUpdated": "1756145276"
     },
     {
         "Author": "VariableVixen",
@@ -91,6 +91,6 @@
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1756144946"
+        "LastUpdated": "1756145276"
     }
 ]
