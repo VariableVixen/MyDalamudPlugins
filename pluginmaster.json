@@ -17,7 +17,7 @@
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/BetterFateList/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/BetterFateList/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1760826478"
+        "LastUpdated": "1760828210"
     },
     {
         "Author": "VariableVixen",
@@ -34,14 +34,14 @@
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1760826478"
+        "LastUpdated": "1760828210"
     },
     {
         "Author": "VariableVixen",
         "Name": "WoLua",
         "Description": "Write custom chat commands by creating lua scripts",
         "InternalName": "WoLua",
-        "AssemblyVersion": "3.9.0",
+        "AssemblyVersion": "4.0.0",
         "RepoUrl": "https://github.com/VariableVixen/WoLua",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 13,
@@ -51,7 +51,7 @@
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1760826478"
+        "LastUpdated": "1760828210"
     },
     {
         "Author": "attick, daemitus, VariableVixen",
@@ -68,7 +68,7 @@
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1760826478"
+        "LastUpdated": "1760828210"
     },
     {
         "Author": "VariableVixen",
@@ -91,6 +91,6 @@
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1760826478"
+        "LastUpdated": "1760828210"
     }
 ]
