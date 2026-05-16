@@ -1,5 +1,22 @@
 [
     {
+        "Author": "attick, daemitus, VariableVixen",
+        "Name": "XIV Combo Very Expanded",
+        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
+        "InternalName": "XIVComboVX",
+        "AssemblyVersion": "9.35.1",
+        "RepoUrl": "https://github.com/VariableVixen/XIVComboPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 14,
+        "DownloadLinkInstall": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1778951064"
+    },
+    {
         "Author": "VariableVixen",
         "Name": "BetterFateList",
         "Description": "Provides a list of all FATEs in the current zone, with their type, sorted by maximum level and distance from you.",
@@ -17,24 +34,7 @@
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/BetterFateList/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/BetterFateList/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1769005803"
-    },
-    {
-        "Author": "attick, daemitus, VariableVixen",
-        "Name": "XIV Combo Very Expanded",
-        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
-        "InternalName": "XIVComboVX",
-        "AssemblyVersion": "9.35.1",
-        "RepoUrl": "https://github.com/VariableVixen/XIVComboPlugin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 14,
-        "DownloadLinkInstall": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1769005803"
+        "LastUpdated": "1778951064"
     },
     {
         "Author": "VariableVixen",
@@ -57,7 +57,7 @@
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1769005803"
+        "LastUpdated": "1778951064"
     },
     {
         "Author": "VariableVixen",
@@ -74,23 +74,23 @@
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1769005803"
+        "LastUpdated": "1778951064"
     },
     {
         "Author": "VariableVixen",
         "Name": "WoLua",
         "Description": "Write custom chat commands by creating lua scripts",
         "InternalName": "WoLua",
-        "AssemblyVersion": "4.3.2",
+        "AssemblyVersion": "4.3.3",
         "RepoUrl": "https://github.com/VariableVixen/WoLua",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 14,
+        "DalamudApiLevel": 15,
         "DownloadLinkInstall": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1769005803"
+        "LastUpdated": "1778951064"
     }
 ]
