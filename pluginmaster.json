@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1778951064"
+        "LastUpdated": "1779386115"
     },
     {
         "Author": "VariableVixen",
@@ -34,7 +34,7 @@
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/BetterFateList/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/BetterFateList/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1778951064"
+        "LastUpdated": "1779386115"
     },
     {
         "Author": "VariableVixen",
@@ -57,24 +57,24 @@
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1778951064"
+        "LastUpdated": "1779386115"
     },
     {
         "Author": "VariableVixen",
         "Name": "TinyCommands",
         "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
         "InternalName": "TinyCmds",
-        "AssemblyVersion": "8.10.2",
+        "AssemblyVersion": "8.10.3",
         "RepoUrl": "https://github.com/VariableVixen/TinyCommands",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 14,
+        "DalamudApiLevel": 15,
         "DownloadLinkInstall": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1778951064"
+        "LastUpdated": "1779386115"
     },
     {
         "Author": "VariableVixen",
@@ -91,6 +91,6 @@
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1778951064"
+        "LastUpdated": "1779386115"
     }
 ]
