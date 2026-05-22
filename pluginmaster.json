@@ -14,14 +14,14 @@
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1779394662"
+        "LastUpdated": "1779474182"
     },
     {
         "Author": "VariableVixen",
         "Name": "BetterFateList",
         "Description": "Provides a list of all FATEs in the current zone, with their type, sorted by maximum level and distance from you.",
         "InternalName": "BetterFateList",
-        "AssemblyVersion": "1.1.3",
+        "AssemblyVersion": "1.1.4",
         "RepoUrl": "https://github.com/VariableVixen/BetterFateList",
         "ApplicableVersion": "any",
         "Tags": [
@@ -34,7 +34,7 @@
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/BetterFateList/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/BetterFateList/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1779394662"
+        "LastUpdated": "1779474182"
     },
     {
         "Author": "VariableVixen",
@@ -57,7 +57,7 @@
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1779394662"
+        "LastUpdated": "1779474182"
     },
     {
         "Author": "VariableVixen",
@@ -74,7 +74,7 @@
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1779394662"
+        "LastUpdated": "1779474182"
     },
     {
         "Author": "VariableVixen",
@@ -91,6 +91,6 @@
         "DownloadLinkTesting": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/VariableVixen/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1779394662"
+        "LastUpdated": "1779474182"
     }
 ]
